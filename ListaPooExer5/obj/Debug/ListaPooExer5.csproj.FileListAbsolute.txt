@@ -1,0 +1,7 @@
+D:\Programação\ListaPooExer5\bin\Debug\ListaPooExer5.exe.config
+D:\Programação\ListaPooExer5\bin\Debug\ListaPooExer5.exe
+D:\Programação\ListaPooExer5\bin\Debug\ListaPooExer5.pdb
+D:\Programação\ListaPooExer5\obj\Debug\ListaPooExer5.csproj.AssemblyReference.cache
+D:\Programação\ListaPooExer5\obj\Debug\ListaPooExer5.csproj.CoreCompileInputs.cache
+D:\Programação\ListaPooExer5\obj\Debug\ListaPooExer5.exe
+D:\Programação\ListaPooExer5\obj\Debug\ListaPooExer5.pdb

@@ -1,0 +1,8 @@
+C:\Users\aluno\Downloads\Lista poo\ListaPooExer2\bin\Debug\ListaPooExer2.exe.config
+C:\Users\aluno\Downloads\Lista poo\ListaPooExer2\bin\Debug\ListaPooExer2.exe
+C:\Users\aluno\Downloads\Lista poo\ListaPooExer2\bin\Debug\ListaPooExer2.pdb
+C:\Users\aluno\Downloads\Lista poo\ListaPooExer2\obj\Debug\ListaPooExer2.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\Lista poo\ListaPooExer2\obj\Debug\ListaPooExer2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Downloads\Lista poo\ListaPooExer2\obj\Debug\ListaPooExer2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Lista poo\ListaPooExer2\obj\Debug\ListaPooExer2.exe
+C:\Users\aluno\Downloads\Lista poo\ListaPooExer2\obj\Debug\ListaPooExer2.pdb
